@@ -1,7 +1,9 @@
 # NeedaRepo
 ![License](https://shields.io/badge/license-Apache-blue)
 ## Description
-NeedaReadme is an application that uses JavaScript and Node.js to create a README.md file on the fly. This application prompts the user with a series of questions that will then append to a new README file. This makes creating READMEs the easiest it's ever been!
+
+NeedaReadMe is an application that allows you to create a README.md file on the fly! Fill out and answer a series of questions. Once you complete the series of questions your README.md file will have been created! This also allows you to select from a couple of the most commonly used Licenses and attaches a badge to your README.
+
 ## Installation
 The user needs to install inquirer by running npm install in your terminal. You will then run node index.js to begin the series of prompts.
 ## Testing
